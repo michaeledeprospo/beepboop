@@ -1,4 +1,4 @@
-Healthcheck Monitoring Dashboard : Using this application we can easily monitor all the API or Service healthcheck and keep track of their status . This application will monitor preodically based on preconfigured time intervals in config file . Dashboard will show the status check mark with clour code and status code message . In case of any error we can view the Error message .
+Healthcheck Monitoring Dashboard : Using this application we can easily monitor all the API or Service healthcheck and keep track of their status . This application will monitor preodically based on preconfigured time intervals in config file . Dashboard will show the status check mark with clour code and status code message . In case of any error we can view the Error message !
 
 # Archtecture :
 
